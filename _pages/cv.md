@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Malik Altaf Hussain
+permalink: /cv/
 ---
 
 ## Contact Information
