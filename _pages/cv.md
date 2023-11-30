@@ -1,16 +1,14 @@
 ---
----
 layout: single
 author_profile: true
-permalink: /cv/
 ---
 
 ## Contact Information
 - Phone: (703)-953-5332
 - Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
 - Alternate Email: [malikaltf@gmail.com](mailto:malikaltf@gmail.com)
+- [Download my CV (PDF)](/files/CV.pdf)  <!-- Update this link to point to your CV's location -->
 
-[Download my CV (PDF)](/files/CV.pdf)
 
 ## Education
 **Ph.D., Economics**  
