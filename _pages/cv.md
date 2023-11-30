@@ -9,6 +9,8 @@ permalink: /cv/
 - Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
 - Alternate Email: [malikaltf@gmail.com](mailto:malikaltf@gmail.com)
 
+[Download my CV (PDF)](/files/CV.pdf)
+
 ## Education
 **Ph.D., Economics**  
 *George Mason University, Virginia, US*  
