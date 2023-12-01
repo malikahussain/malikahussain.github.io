@@ -43,10 +43,10 @@ Economic History with focus on colonial India, Economics of Religion and Develop
 6. "STEMming the Dowry Tradition: Empowering Girls in India" (with Malvika Tyagi and Deepak Kumar) _Submitted to Journal of Population Economics_.
 
 ### Working Papers
-1. "Mistrust and Vaccination in Colonial India: 1870 - 1926" (with Noel D. Johnson and Alex Tabarrok), 2023.
-2. "Religion and Smallpox Vaccination in Colonial India" (with Noel D. Johnson), 2023.
+1. "Mistrust and Vaccination in Colonial India: 1870 - 1926" (with Noel D. Johnson), 2023.
+2. "Religion and Smallpox Vaccination in Colonial India", 2023.
 3. "Colonization in a Network of Allies", 2023.
-4. "Railways and Health outcomes in Colonial India" (with Noel D. Johnson), 2023.
+4. "Railways and Health outcomes in Colonial India", 2023.
 5. "Discrimination in Provision of Public Goods in India" (with Malvika Tyagi and Deepak Kumar), 2022.
 
 ## Honors and Awards
