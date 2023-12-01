@@ -1,7 +1,7 @@
 ---
 title: "Role of Political Connections in Land Investment; Evidence from Rural India"
 collection: publications
-#permalink: /publication/2020-01-01-role-of-political-connections
+permalink: /publication/2020-01-01-role-of-political-connections
 excerpt: 'This paper investigates the impact of political connections on land investment decisions in rural India.'
 date: 2020
 venue: 'Constitutional Political Economy'
