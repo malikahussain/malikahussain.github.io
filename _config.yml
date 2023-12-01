@@ -26,12 +26,12 @@ analytics:
 author:
   name             : "Malik Altaf Hussain"
   avatar           : "profile.png" # Update this if you have a different profile picture
-  bio              : "I am a fourth-year Ph.D. candidate in Economics at George Mason University."
+  bio              : "I am a fourth-year Ph.D. candidate in Economics at George Mason University. I am also a Public Choice Fellow at the Center for the Study of Public Choice, GMU. I was a Mercatus Ph.D. Fellow from 2020-2023."
   location         : "Fairfax, VA" # Update with your actual location
   # Add or update your social media profiles and other relevant links
   pubmed           :
   googlescholar    :
-  email            :
+  email            :"mhussa5@gmu.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -47,7 +47,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :

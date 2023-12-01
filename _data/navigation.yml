@@ -1,15 +1,13 @@
-# main links links
+# main links
 main:
-  - title: "Research"
-    url: /publications/
-  - title: "Working Papers"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Blog"
-    url: /posts/
   - title: "CV"
     url: /cv/
 
+  - title: "Research"
+    url: /publications/  # Assuming your research content is in the publications folder
+
+  - title: "Working Papers"
+    url: /portfolio/  # Assuming your working papers are in the portfolio folder
+
+  - title: "Teaching"
+    url: /teaching/
