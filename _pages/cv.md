@@ -1,11 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: "Malik Altaf Hussain - CV"
+title: "Malik Altaf Hussain"
 permalink: /cv/
 ---
-
-# Malik Altaf Hussain
 
 **Contact Information**  
 Phone: (703)-953-5332  
