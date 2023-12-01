@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Role of Political Connections in Land Investment; Evidence from Rural India"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/role-of-political-connections-in-land-investment
+excerpt: 'This paper examines the role of political connections in land investment in rural India.'
+date: 2020
+venue: 'Constitutional Political Economy'
+paperurl: 'https://your-paper-url.com'  # Replace with the actual URL to your paper
+citation: 'Your Name, You. (2020). &quot;Role of Political Connections in Land Investment; Evidence from Rural India.&quot; <i>Constitutional Political Economy</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
