@@ -5,11 +5,11 @@ permalink: /publication/2020-01-01-political-connections-micro-enterprises
 excerpt: 'This paper analyzes the influence of political connections on access to credit for micro-enterprises in India.'
 date: 2020-01-01
 venue: 'Small Business Economics'
-paperurl: 'http://academicpages.github.io/files/paper5.pdf'
+paperurl: 'http://malikahussain/files/paper2.pdf'
 citation: 'Your Name, You. (2020). "Political Connections and Access to Credit; Evidence from Micro-enterprises in India." <i>Small Business Economics</i>.'
 ---
 This paper analyzes the influence of political connections on access to credit for micro-enterprises in India.
 
-[Download paper here](http://academicpages.github.io/files/paper5.pdf)
+[Download paper here](http://malikahussain/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2020). "Political Connections and Access to Credit; Evidence from Micro-enterprises in India." <i>Small Business Economics</i>.
