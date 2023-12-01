@@ -1,14 +1,15 @@
 ---
 layout: single
+title: Malik Altaf Hussain
 author_profile: true
+permalink: /cv/
 ---
+
 
 ## Contact Information
 - Phone: (703)-953-5332
 - Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
 - Alternate Email: [malikaltf@gmail.com](mailto:malikaltf@gmail.com)
-- [Download my CV (PDF)](/files/CV.pdf)  <!-- Update this link to point to your CV's location -->
-
 
 ## Education
 **Ph.D., Economics**  
@@ -65,4 +66,4 @@ Economic History with a focus on colonial India, Economics of Religion and Devel
 - Bartley J. Madden Chair in Economics  
 - James M. Buchanan Center for Political Economy  
 - Department of Economics, MSN 1D3, George Mason University, Fairfax, VA, 22030  
-- Email: [atabarro@gmu.edu](mailto:atabarro@gmu.edu@gmu)
+- Email: [atabarro@gmu.edu](mailto:atabarro@gmu.edu)
