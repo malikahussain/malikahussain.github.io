@@ -1,13 +1,13 @@
 # main links
 main:
+
+  - title: "Home"
+    url: /  # This directs the link to the root of your site, where your main "About Me" content is.
+
   - title: "CV"
-    url: /cv/
+    url: /CV/
 
-  - title: "Research"
-    url: /publications/  # Assuming your research content is in the publications folder
+  - title: "RESEARCH"
+    url: /publications/  # This should point to where your research content is located
 
-  - title: "Working Papers"
-    url: /portfolio/  # Assuming your working papers are in the portfolio folder
-
-  - title: "Teaching"
-    url: /teaching/
+ 
