@@ -10,6 +10,7 @@ permalink: /cv/
 - Phone: (703)-953-5332
 - Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
 - Secondary Email: [malikaltf@gmail.com](mailto:malikaltf@gmail.com)
+- [Download my CV (PDF)](/files/CV.pdf)
 
 ## Education
 
