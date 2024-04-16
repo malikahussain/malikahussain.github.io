@@ -36,7 +36,7 @@ permalink: /cv/
 
 #### Published
 - Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.
-- Hussain, Malik, Altaf, & Tyagi, M. (2024) "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_ (Forthcoming).
+- Hussain, Malik, Altaf, & Tyagi, M. (2024) "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.
 
 
 #### Conditionally Accepted
