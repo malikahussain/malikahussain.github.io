@@ -13,7 +13,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 # Published
 - **Political Connections and Access to Credit: Evidence from Micro-enterprises in India**  
   Hussain, Malik Altaf, & Tyagi, M. (2024). _Small Business Economics_(_Forthcoming)
-  - **Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector**  
+ - **Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector**  
   Hussain, Malik Altaf, & Tyagi, M. (2024). _Structural Change and Economic Dynamics_.
 - **Role of Political Connections in Land Investment: Evidence from Rural India**  
   Hussain, Malik Altaf, & Tyagi, M. (2020). _Constitutional Political Economy_.
