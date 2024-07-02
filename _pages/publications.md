@@ -7,8 +7,6 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=HeXslZEAAAAJ) and [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2742099).
 
-{% include base_path %}
-
 
 # Published
 - **Addressing the Challenges of Death Registration in India: A Path Forward**  

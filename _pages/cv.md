@@ -35,7 +35,9 @@ permalink: /cv/
 ### Publications
 
 #### Published
-- Hussain, Malik, Altaf, & Tyagi, M. (2024) "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_ (_Forthcoming_).
+- **Addressing the Challenges of Death Registration in India: A Path Forward**  
+  Hussain, Malik Altaf, & Akhtar, Md Azharuddin (2024). _Economic and Political Weekly_ (Forthcoming).
+- Hussain, Malik, Altaf, & Tyagi, M. (2024) "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_ (Forthcoming).
 - Hussain, Malik, Altaf, & Tyagi, M. (2024) "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.
 - Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.
 
@@ -59,10 +61,6 @@ permalink: /cv/
 
 - Religion and Consumption of Drugs in Colonial India
   (with Noel D. Johnson and Shruti Rajagopalan)
-
-- Language, Disease, and Wage in Colonial India
-  (with Tajudin Khan and Deepak Kumar)
-
 
 ## Honors and Awards
 
