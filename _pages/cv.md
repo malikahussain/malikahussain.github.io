@@ -28,9 +28,8 @@ permalink: /cv/
 
 ## Research Interests
 
-- **Economic History**: Focus on colonial India's economic and social transformations.
-- **Economics of Religion**: Exploring the intersection of religious beliefs and economic development.
-- **Health Policy and Institutions**: Studying how institutions influence health policy effectiveness in developing contexts.
+- Applied Microeconomics, Health Economics, Historical Political Economy, Economic History of Colonial India
+	
 
 ### Publications
 
