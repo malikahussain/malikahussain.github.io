@@ -35,10 +35,9 @@ permalink: /cv/
 
 #### Published
 - Hussain, Malik, Altaf, & Akhtar, Md Azharuddin. (2024). "Addressing the Challenges of Death Registration in India: A Path Forward." _Economic and Political Weekly_ (Forthcoming).
-- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_ (Forthcoming).
+- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_. [https://link.springer.com/article/10.1007/s11187-024-00950-y](https://link.springer.com/article/10.1007/s11187-024-00950-y)
 - Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.
 - Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.
-
 
 #### Under Review
 - Hussain, Malik, Altaf, Tyagi, M., & Kumar, D. (2024) "Household Transition to Toilets in India: Role of Government Schemes." _Journal of Biosocial Science_ (Revision submitted).
