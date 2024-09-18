@@ -62,7 +62,7 @@ permalink: /cv/
 
 ## Honors and Awards
 
--Emergent ventures India fellowship, 2024-25, Mercatus Center (GMU)
+- Emergent ventures India fellowship, 2024-25, Mercatus Center (GMU)
 - Public Choice Fellow, 2023-24, George Mason University.
 - Bradley Fellow, 2021-2024, George Mason University.
 - Mercatus Center PhD Fellowship, 2020-2023, George Mason University.
