@@ -4,8 +4,6 @@ title: "Welcome"
 excerpt: "About me"
 author_profile: true
 ---
-**Welcome**
-
 I am a Ph.D. candidate in Economics at George Mason University. My research focuses on historical political economy and the economic history of colonial India, with an emphasis on health policy during British rule. I examine how culture, religion, and trust influenced vaccine hesitancy, particularly in the context of smallpox vaccination campaigns. By analyzing the political economy of health in colonial India, I aim to understand how historical and cultural factors continue to shape contemporary public health policies and economic outcomes. My work employs applied econometrics, historical data analysis, and machine learning techniques such as textual analysis.
 
 
