@@ -28,7 +28,7 @@ permalink: /cv/
 
 ## Research Interests
 
-- Applied Microeconomics, Health Economics, Historical Political Economy, Economic History of Colonial India
+- Development Economics, Economics of Religion, Historical Political Economy, and Health Economics, focusing on vaccine hesitancy in colonial India.
 	
 
 ### Publications
@@ -41,7 +41,7 @@ permalink: /cv/
 
 #### Under Review
 - Hussain, Malik, Altaf, Tyagi, M., & Kumar, D. (2024) "Household Transition to Toilets in India: Role of Government Schemes." _Journal of Biosocial Science_ (Revision submitted).
-- Hussain, Malik, Altaf, Ansari Faiz, F., Akhtar, A., & Tyagi, M. (2024) "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance." _Asian Journal of Political Science_.
+- Hussain, Malik, Altaf, Ansari Faiz, F., Akhtar, A., & Tyagi, M. (2024) "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance." _Electoral Studies_.
 - Hussain, Malik, Altaf, Tyagi, M., & Kumar, D. (2024) "STEMming the Dowry Tradition: Empowering Girls in India." _Oxford Development Studies_.
 
 
@@ -62,12 +62,13 @@ permalink: /cv/
 
 ## Honors and Awards
 
-- Public Choice Fellow, 2023-24, George Mason University (GMU)
-- Bradley Fellow, 2021-2024, George Mason University (GMU)
-- Mercatus Center PhD Fellowship, 2020-2023, George Mason University (GMU)
-- Mercatus Center Summer Fellowship, 2021-2023, George Mason University (GMU)
+-Emergent ventures India fellowship, 2024-25, Mercatus Center (GMU)
+- Public Choice Fellow, 2023-24, George Mason University.
+- Bradley Fellow, 2021-2024, George Mason University.
+- Mercatus Center PhD Fellowship, 2020-2023, George Mason University.
+- Mercatus Center Summer Fellowship, 2021-2023, George Mason University.
 - Qualified Junior Research Fellowship, 2015, Conducted by UGC, India
-- South Asian University Merit Fellowship, 2010-2012, South Asian University (SAU), New Delhi
+- South Asian University Merit Fellowship, 2010-2012, South Asian University.
 
 
 ## Teaching Experience

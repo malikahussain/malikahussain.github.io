@@ -13,10 +13,12 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Hussain, Malik Altaf, & Akhtar, Md Azharuddin (2024). _Economic and Political Weekly_ (Forthcoming).
   
 - **Political Connections and Access to Credit: Evidence from Micro-enterprises in India**  
-  Hussain, Malik Altaf, & Tyagi, M. (2024). _Small Business Economics_. [https://link.springer.com/article/10.1007/s11187-024-00950-y](https://link.springer.com/article/10.1007/s11187-024-00950-y)
+  Hussain, Malik Altaf, & Tyagi, M. (2024). _Small Business Economics_. 
+ [https://link.springer.com/article/10.1007/s11187-024-00950-y](https://link.springer.com/article/10.1007/s11187-024-00950-y)
   
 - **Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector**  
-  Hussain, Malik Altaf, & Tyagi, M. (2024). _Structural Change and Economic Dynamics_.
+  Hussain, Malik Altaf, & Tyagi, M. (2024). _Structural Change and Economic Dynamics_.  
+ [https://doi.org/10.1016/j.strueco.2024.03.006](https://doi.org/10.1016/j.strueco.2024.03.006)
   
 - **Role of Political Connections in Land Investment: Evidence from Rural India**  
   Hussain, Malik Altaf, & Tyagi, M. (2020). _Constitutional Political Economy_.
