@@ -14,7 +14,7 @@
     margin-bottom: 1em;
   
     @include breakpoint($large) {
-      @include span(2 of 12);
+      @include span(2 of 12); /* Adjust the width of the sidebar */
       opacity: 1;
       -webkit-transition: opacity 0.2s ease-in-out;
               transition: opacity 0.2s ease-in-out;
@@ -24,8 +24,8 @@
       }
     }
   
-  
     @include breakpoint($x-large) {
+      width: 20%; /* Adjust the width of the sidebar */
       padding-right: 0;
     }
   
@@ -49,19 +49,14 @@
     }
   }
   
-  .sidebar__right {
-    margin-bottom: 1em;
-  
-    @include breakpoint($large) {
-      position: relative;
-      float: right;
-      width: $right-sidebar-width-narrow;
-      margin-left: span(0.5 of 12);
-      z-index: 10;
-    }
+  /* Add styles for the main content area */
+  .main-content {
+    max-width: 80%; /* Increase the maximum width */
+    margin: 0 auto; /* Center the content */
+    padding: 0 1em; /* Adjust side padding */
   
     @include breakpoint($x-large) {
-      width: $right-sidebar-width;
+      width: 75%; /* Adjust the width of the main content area */
     }
   }
   
