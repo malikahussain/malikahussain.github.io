@@ -33,13 +33,38 @@
 @import "print";
 
 // Custom styles (Add these at the bottom of the file)
-.page-content {
-    max-width: 90%; /* Adjust to use more horizontal space */
-    margin: 0 auto; /* Center content */
+
+/* Sidebar adjustments */
+.sidebar {
+    float: left; /* Ensure sidebar is floated to the left */
+    margin-right: 20px; /* Add some space between sidebar and content */
+    
+    @include breakpoint($large) {
+        @include span(2 of 12); /* Adjust sidebar width as needed */
+    }
 }
 
-.sidebar {
+/* Main content adjustments */
+.page-content {
+    max-width: 80%; /* Use more of the horizontal space */
+    margin-left: 20px; /* Add left margin to avoid overlap */
+}
+
+.page {
+    @include clearfix;
     @include breakpoint($large) {
-        @include span(1.5 of 12); /* Reduce the width of the sidebar */
+        @include span(10 of 12 last); /* Adjust the width of the main content */
+    }
+}
+
+#main {
+    @include container;
+    @include clearfix;
+    margin-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    
+    @include breakpoint($x-large) {
+        max-width: 95%; /* Expand content to use more horizontal space */
     }
 }
