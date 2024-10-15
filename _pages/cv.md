@@ -114,42 +114,34 @@ permalink: /cv/
 
 ## References
 
-<table>
-  <tr>
-    <td>
+<div class="two-columns">
+
+<div class="column">
 
 **Prof. Noel D. Johnson**, PhD Supervisor  
 Professor of Economics and Research Fellow at the Mercatus Center  
 George Mason University, Fairfax, VA  
 [njohnsol@gmu.edu](mailto:njohnsol@gmu.edu)
 
-</td>
-    <td>
+**Prof. Mark Koyama**  
+Professor of Economics  
+George Mason University, Fairfax, VA  
+[Mark.Koyama@gmail.com](mailto:Mark.Koyama@gmail.com)
+
+</div>
+
+<div class="column">
 
 **Prof. Alex T. Tabarrok**  
 Bartley J. Madden Chair in Economics, James M. Buchanan Center for Political Economy  
 George Mason University, Fairfax, VA  
 [atabarro@gmu.edu](mailto:atabarro@gmu.edu)
 
-</td>
-  </tr>
-  <tr>
-    <td>
-
-**Prof. Mark Koyama**  
-Professor of Economics  
-George Mason University, Fairfax, VA  
-[Mark.Koyama@gmail.com](mailto:Mark.Koyama@gmail.com)
-
-</td>
-    <td>
-
 **Prof. Vincent Geloso**  
 Assistant Professor of Economics  
 George Mason University, Fairfax, VA  
 [vincentgeloso@hotmail.com](mailto:vincentgeloso@hotmail.com)
 
-</td>
-  </tr>
-</table>
+</div>
 
+</div>
