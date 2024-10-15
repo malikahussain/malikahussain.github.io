@@ -35,9 +35,11 @@ permalink: /cv/
 
 #### Published
 - Hussain, Malik, Altaf, & Akhtar, Md Azharuddin. (2024). "Addressing the Challenges of Death Registration in India: A Path Forward." _Economic and Political Weekly_ (Forthcoming).
-- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_. [https://link.springer.com/article/10.1007/s11187-024-00950-y](https://link.springer.com/article/10.1007/s11187-024-00950-y)
-- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.
-- Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.
+- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.  
+  [https://doi.org/10.1016/j.strueco.2024.03.006](https://doi.org/10.1016/j.strueco.2024.03.006)
+- Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.  
+  [https://doi.org/10.1007/s10602-019-09293-3](https://doi.org/10.1007/s10602-019-09293-3)
+
 
 #### Under Review
 - Hussain, Malik, Altaf, Tyagi, M., & Kumar, D. (2024) "Household Transition to Toilets in India: Role of Government Schemes." _Journal of Biosocial Science_ (Revision submitted).
@@ -63,7 +65,7 @@ permalink: /cv/
 ## Honors and Awards
 
 - Emergent ventures India fellowship, 2024-25, Mercatus Center (GMU)
-- Public Choice Fellow, 2023-24, George Mason University.
+- Public Choice Fellow, 2023-25, George Mason University.
 - Bradley Fellow, 2021-2024, George Mason University.
 - Mercatus Center PhD Fellowship, 2020-2023, George Mason University.
 - Mercatus Center Summer Fellowship, 2021-2023, George Mason University.
@@ -110,12 +112,42 @@ permalink: /cv/
 
 ## References
 
-- **Prof. Noel D. Johnson**, PhD Supervisor  
-  Professor of Economics and Research Fellow at the Mercatus Center  
-  George Mason University, Fairfax, VA  
-  [njohnsol@gmu.edu](mailto:njohnsol@gmu.edu)
+<table>
+  <tr>
+    <td>
 
-- **Prof. Alex T. Tabarrok**  
-  Bartley J. Madden Chair in Economics, James M. Buchanan Center for Political Economy  
-  George Mason University, Fairfax, VA  
-  [atabarro@gmu.edu](mailto:atabarro@gmu.edu)
+**Prof. Noel D. Johnson**, PhD Supervisor  
+Professor of Economics and Research Fellow at the Mercatus Center  
+George Mason University, Fairfax, VA  
+[njohnsol@gmu.edu](mailto:njohnsol@gmu.edu)
+
+</td>
+    <td>
+
+**Prof. Alex T. Tabarrok**  
+Bartley J. Madden Chair in Economics, James M. Buchanan Center for Political Economy  
+George Mason University, Fairfax, VA  
+[atabarro@gmu.edu](mailto:atabarro@gmu.edu)
+
+</td>
+  </tr>
+  <tr>
+    <td>
+
+**Prof. Mark Koyama**  
+Professor of Economics  
+George Mason University, Fairfax, VA  
+[Mark.Koyama@gmail.com](mailto:Mark.Koyama@gmail.com)
+
+</td>
+    <td>
+
+**Prof. Vincent Geloso**  
+Assistant Professor of Economics  
+George Mason University, Fairfax, VA  
+[vincentgeloso@hotmail.com](mailto:vincentgeloso@hotmail.com)
+
+</td>
+  </tr>
+</table>
+
