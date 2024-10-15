@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   
 - **Political Connections and Access to Credit: Evidence from Micro-enterprises in India**  
   Hussain, Malik Altaf, & Tyagi, M. (2024). _Small Business Economics_. 
- [https://link.springer.com/article/10.1007/s11187-024-00950-y](https://link.springer.com/article/10.1007/s11187-024-00950-y)
+ [https://doi.org/10.1007/s11187-024-00950-y](https://doi.org/10.1007/s11187-024-00950-y)
   
 - **Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector**  
   Hussain, Malik Altaf, & Tyagi, M. (2024). _Structural Change and Economic Dynamics_.  
@@ -29,7 +29,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   Hussain, Malik Altaf, Tyagi, M., & Kumar, D. (2024). _Journal of Biosocial Science_ (Revision submitted).
 
 - **Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance**  
-  Hussain, Malik Altaf, Ansari Faiz, F., Akhtar, A., & Tyagi, M. (2024). _Asian Journal of Political Science_.
+  Hussain, Malik Altaf, Ansari Faiz, F., Akhtar, A., & Tyagi, M. (2024). _Electoral Studies_.
 
 - **STEMming the Dowry Tradition: Empowering Girls in India**  
   Hussain, Malik Altaf, Tyagi, M., & Kumar, D. (2024). _Oxford Development Studies_.
