@@ -121,11 +121,11 @@ permalink: /cv/
 
 ## References
 
-| **Prof. Noel D. Johnson** -- **PhD advisor** | **Prof. Alex T. Tabarrok** |
+| **Prof. Noel D. Johnson** | **Prof. Alex T. Tabarrok** |
 | -------------------------------------------- | -------------------------- |
 | Professor of Economics, George Mason University | Bartley J. Madden Chair in Economics, George Mason University |
 | Email: [njohnsol@gmu.edu](mailto:njohnsol@gmu.edu) | Director, Center for Study of Public Choice |
-| | Email: [atabarro@gmu.edu](mailto:atabarro@gmu.edu) |
+| **PhD advisor** | Email: [atabarro@gmu.edu](mailto:atabarro@gmu.edu) |
 
 | **Prof. Mark Koyama** | **Prof. Vincent Geloso** |
 | --------------------- | ---------------------- |
