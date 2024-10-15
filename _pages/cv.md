@@ -28,9 +28,15 @@ permalink: /cv/
 
 ## Research Interests
 
-- Development Economics, Economics of Religion, Historical Political Economy, and Health Economics, focusing on vaccine hesitancy in colonial India.
-	
+- Historical Political Economy, Economics of Religion, Development Economics, Health Economics, and Applied Econometrics.
+- Focus on religion's role in vaccine hesitancy and its economic impact, particularly on public health interventions in colonial India.
 
+
+## Job Market Paper
+
+**Pox, Piety, and Paradox: The Economics of Vaccination in British India**  
+*Draft available upon request*
+	
 ### Publications
 
 #### Published
@@ -51,18 +57,19 @@ permalink: /cv/
 
 #### Working Papers
 
-- Mistrust and Vaccination in Colonial India: 1870 - 1926 
-  (with Noel D. Johnson)
+- **Mistrust and Vaccination in Colonial India: 1870 - 1926**  
+  (with Noel D. Johnson) *(Slides Available)*
 
-- Religion and Smallpox Vaccination in Colonial India
+- **Colonization in a Network of Allies**  
+  (with Benhur Ruqsana) *(First Draft Available)*
 
-- Colonization in a Network of Allies 
-  (with Benhur Ruqsana)
+- **Railways and Health Outcomes in Colonial India**
 
-- Railways and Health Outcomes in Colonial India
-
-- Religion and Consumption of Drugs in Colonial India
+- **Religion and Consumption of Drugs in Colonial India**  
   (with Noel D. Johnson and Shruti Rajagopalan)
+
+- **Language and Market Integration in Colonial India: A Network Economics Approach**  
+  (with Benhur Ruqsana)
 
 ## Honors and Awards
 
