@@ -121,22 +121,13 @@ permalink: /cv/
 
 ## References
 
-- **Prof. Noel D. Johnson**, PhD Supervisor  
-  Professor of Economics and Research Fellow at the Mercatus Center  
-  George Mason University, Fairfax, VA  
-  [njohnsol@gmu.edu](mailto:njohnsol@gmu.edu)
+| **Prof. Noel D. Johnson** -- **PhD advisor** | **Prof. Alex T. Tabarrok** |
+| -------------------------------------------- | -------------------------- |
+| Professor of Economics, George Mason University | Bartley J. Madden Chair in Economics, George Mason University |
+| Email: [njohnsol@gmu.edu](mailto:njohnsol@gmu.edu) | Director, Center for Study of Public Choice |
+| | Email: [atabarro@gmu.edu](mailto:atabarro@gmu.edu) |
 
-- **Prof. Alex T. Tabarrok**  
-  Bartley J. Madden Chair in Economics, James M. Buchanan Center for Political Economy  
-  George Mason University, Fairfax, VA  
-  [atabarro@gmu.edu](mailto:atabarro@gmu.edu)
-
-- **Prof. Mark Koyama**  
-  Professor of Economics  
-  George Mason University, Fairfax, VA  
-  [Mark.Koyama@gmail.com](mailto:Mark.Koyama@gmail.com)
-
-- **Prof. Vincent Geloso**  
-  Assistant Professor of Economics  
-  George Mason University, Fairfax, VA  
-  [vincentgeloso@hotmail.com](mailto:vincentgeloso@hotmail.com)
+| **Prof. Mark Koyama** | **Prof. Vincent Geloso** |
+| --------------------- | ---------------------- |
+| Professor of Economics, George Mason University | Assistant Professor of Economics, George Mason University |
+| Email: [Mark.Koyama@gmail.com](mailto:Mark.Koyama@gmail.com) | Email: [vincentgeloso@hotmail.com](mailto:vincentgeloso@hotmail.com) |
