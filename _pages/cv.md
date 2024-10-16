@@ -15,7 +15,8 @@ permalink: /cv/
 ## Education
 
 ### Ph.D. in Economics
-**George Mason University, Virginia, US** - 2020 to Present
+**George Mason University, Virginia, US** - 2020 to Present  
+Research Assistant to Prof. Noel D. Johnson (2020–2023)
 
 ### M.Phil. in Economics
 **Jawaharlal Nehru University, New Delhi, India** - 2014 to 2017
