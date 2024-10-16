@@ -95,6 +95,10 @@ Research Assistant to Prof. Noel D. Johnson (2020–2023)
 - Offered the position of Assistant Professor at Jamia Millia Islamia University, New Delhi, India (Declined) - August.
 ## Conferences and Presentations
 
+#### 2024
+
+- Markets and Society Conference, Mercatus Center, GMU.
+
 #### 2023
 - 3rd International Conference on Indian Business and Economic History, August, Indian Institute of Management Ahmedabad, Ahmedabad, India.
 - ACES Political Economy Summer School, August, University of California, Berkeley.
