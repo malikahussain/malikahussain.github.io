@@ -32,7 +32,7 @@ Research Assistant to Prof. Noel D. Johnson (2020–2023)
 
 ## Research Interests
 
-- Historical Political Economy, Economics of Religion, Development Economics, Health Economics, and Applied Econometrics.
+- Historical Political Economy, Economics of Religion, Development Economics, Culture and Economics, and Applied Econometrics.
 - Focus on religion's role in vaccine hesitancy and its economic impact, particularly on public health interventions in colonial India.
 
 
