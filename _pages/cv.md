@@ -16,8 +16,8 @@ permalink: /cv/
 
 ### Ph.D. in Economics
 **George Mason University, Virginia, US** - 2020 to Present  
-Primary Fields: Law and Economics, Economics of Religion  
-Secondary Fields: Historical Political Economy, Institutional Economics  
+Primary Fields: *Law and Economics, Economics of Religion*  
+Secondary Fields: *Historical Political Economy, Institutional Economics*  
 Research Assistant to Prof. Noel D. Johnson (2020–2023)
 
 
