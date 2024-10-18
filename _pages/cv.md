@@ -40,6 +40,7 @@ Research Assistant to Prof. Noel D. Johnson (2020–2023)
 
 **Pox, Piety, and Paradox: The Economics of Vaccination in British India**  
 *Draft available upon request*
+This paper presents new historical evidence on the cultural roots of vaccine hesitancy and its medium-term effects. Using variation in Hindu population shares across districts in colonial India, this paper analyzes the impact of religious beliefs on smallpox vaccination rates from 1868 to 1878. An instrumental variables approach based on desecration of historical Hindu religious sites reveals that Hindu-majority districts had significantly lower vaccination rates than Muslim-majority districts. Additionally, lower vaccination rates are linked to higher widowhood and a greater proportion of unmarried individuals in subsequent decades. The findings highlight the societal impact of culturally-driven vaccine hesitancy and guide culturally sensitive health policies.
 	
 ### Publications
 
