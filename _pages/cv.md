@@ -45,11 +45,11 @@ This paper presents new historical evidence on the cultural roots of vaccine hes
 
 #### Published
 - Hussain, Malik, Altaf, & Akhtar, Md Azharuddin. (2024). "Addressing the Challenges of Death Registration in India: A Path Forward." _Economic and Political Weekly_ (Forthcoming).
-- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_.  
+- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector." _Structural Change and Economic Dynamics_ (*ABDC-B*).  
   [https://doi.org/10.1016/j.strueco.2024.03.006](https://doi.org/10.1016/j.strueco.2024.03.006)
-- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_.  
+- Hussain, Malik, Altaf, & Tyagi, M. (2024). "Political Connections and Access to Credit: Evidence from Micro-enterprises in India." _Small Business Economics_ (*ABDC-A*).  
   [https://doi.org/10.1007/s11187-024-00950-y](https://doi.org/10.1007/s11187-024-00950-y)
-- Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_.  
+- Hussain, Malik, Altaf, & Tyagi, M. (2020). "Role of Political Connections in Land Investment: Evidence from Rural India." _Constitutional Political Economy_ (*ABDC-C*).  
   [https://doi.org/10.1007/s10602-019-09293-3](https://doi.org/10.1007/s10602-019-09293-3)
 
 
