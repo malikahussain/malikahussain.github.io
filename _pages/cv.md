@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: "Malik Altaf Hussain"
+title: ""
 permalink: /cv/
 ---
 
-# Curriculum Vitae
+# Malik Altaf Hussain
 [Download Complete CV (PDF)](/files/CV.pdf)
 
 ## Contact Information
