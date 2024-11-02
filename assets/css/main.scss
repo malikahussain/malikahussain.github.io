@@ -39,3 +39,32 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Add this to your main CSS file */
+.container {
+  max-width: 90%;  /* Increase from default */
+  margin: 0 auto;  /* Center the content */
+  padding: 0 20px; /* Reduce side padding */
+}
+
+.profile-section {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+}
+
+.content-section {
+  flex: 1;
+  max-width: none; /* Remove any max-width constraints */
+}
+
+.profile-image {
+  width: 200px;  /* Adjust as needed */
+  flex-shrink: 0;
+}
+
+/* Make text containers more fluid */
+.abstract, .paper-info {
+  max-width: none;
+  width: 100%;
+}
