@@ -19,11 +19,10 @@ Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
 I am on the 2024-25 academic job market.
 
 ## Education
-
 **Ph.D. in Economics**, George Mason University, *Expected May 2025*  
-Primary Fields: Political Economy, Economic History
-Secondary Fields: Development Economics, Applied Econometrics  
-Dissertation Committee:  
+&nbsp;&nbsp;&nbsp;&nbsp;*Primary Fields:* Political Economy, Economic History  
+&nbsp;&nbsp;&nbsp;&nbsp;*Secondary Fields:* Development Economics, Applied Econometrics  
+**Dissertation Committee:**  
 - Chair: Prof. Noel D. Johnson
 - Prof. Alex T. Tabarrok
 - Prof. Mark Koyama
