@@ -57,5 +57,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 5. "Religion and Consumption of Drugs in Colonial India"  
    with Noel D. Johnson and Shruti Rajagopalan
 
-6. "Language, Disease, and Wage in Colonial India"  
-   with Tajudin Khan and Deepak Kumar
+6. "Language and Market Integration in Colonial India: A Network Economics Approach" (with Benhur Ruqsana)
