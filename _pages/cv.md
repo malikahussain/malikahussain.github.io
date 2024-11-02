@@ -20,8 +20,9 @@ I am on the 2024-25 academic job market.
 
 ## Education
 
-**Ph.D. in Economics**, George Mason University, Expected 2024  
-Fields: Political Economy, Economic History, Development Economics  
+**Ph.D. in Economics**, George Mason University, *Expected May 2025*  
+Primary Fields: Political Economy, Economic History
+Secondary Fields: Development Economics, Applied Econometrics  
 Dissertation Committee:  
 - Chair: Prof. Noel D. Johnson
 - Prof. Alex T. Tabarrok
@@ -40,11 +41,11 @@ Secondary: Development Economics, Applied Econometrics
 ## Publications
 
 1. "Political Connections and Access to Credit: Evidence from Micro-enterprises in India" (with M. Tyagi)  
-   *Small Business Economics*, 2024 (ABDC-A)  
+   *Small Business Economics*, 2024  
    [Paper](https://doi.org/10.1007/s11187-024-00950-y)
 
 2. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" (with M. Tyagi)  
-   *Structural Change and Economic Dynamics*, 2024 (ABDC-B)  
+   *Structural Change and Economic Dynamics*, 2024   
    [Paper](https://doi.org/10.1016/j.strueco.2024.03.006)
 
 3. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
@@ -75,10 +76,10 @@ Secondary: Development Economics, Applied Econometrics
    *Journal of Biosocial Science* (R&R)
 
 2. "Money and Muscle in India's Democracy" (with F. Ansari Faiz, A. Akhtar, and M. Tyagi)  
-   *Electoral Studies*
+   
 
 3. "STEMming the Dowry Tradition: Empowering Girls in India" (with M. Tyagi and D. Kumar)  
-   *Oxford Development Studies*
+   
 
 ## Fellowships and Awards
 - Emergent Ventures India Fellowship, Mercatus Center (2024-25)

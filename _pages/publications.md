@@ -36,12 +36,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 2. "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance"  
    with F. Ansari Faiz, A. Akhtar, and M. Tyagi  
-   *Electoral Studies*
+
 
 3. "STEMming the Dowry Tradition: Empowering Girls in India"  
    with M. Tyagi and D. Kumar  
-   *Oxford Development Studies*
-
+   
 ## Working Papers
 
 1. "Mistrust and Vaccination in Colonial India: 1870 - 1926"  
