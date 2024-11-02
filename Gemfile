@@ -6,8 +6,6 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
 
@@ -17,17 +15,3 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# Add tzinfo-data for Windows platforms
-gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin]
-
-# Add WEBrick gem for Ruby 3.0 and above
-gem "webrick"
-
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-end
