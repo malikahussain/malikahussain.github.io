@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Job Market Paper"
+title: ""
 permalink: /job_market_paper/
 author_profile: true
 ---
