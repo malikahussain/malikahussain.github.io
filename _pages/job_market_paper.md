@@ -24,4 +24,6 @@ This paper presents new historical evidence on the cultural roots of vaccine hes
     </div>
 </div>
 
-Spatial patterns in British India (1868-1878). Left panel shows the district-wise Hindu population share. Right panel displays the average smallpox vaccination rates across districts.
+<p style="font-size: 0.9em; text-align: center; margin-top: -10px; color: #666;">
+<strong>Figure 1:</strong> Spatial patterns in British India (1868-1878). Left panel shows the district-wise Hindu population share. Right panel displays the average smallpox vaccination rates across districts.
+</p>
