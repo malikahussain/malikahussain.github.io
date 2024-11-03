@@ -4,10 +4,9 @@ title: ""
 permalink: /job_market_paper/
 author_profile: true
 ---
-
 # Pox, Piety, and Paradox: The Economics of Vaccination in British India
-
 [Download Paper (PDF)](/files/JMP.pdf){: .btn .btn--primary}
+[Dissertation Abstract (PDF)](/files/dissertation_abstract.pdf){: .btn .btn--primary}
 
 ## Abstract
 
