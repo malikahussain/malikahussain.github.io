@@ -92,6 +92,11 @@ Secondary: Development Economics, Applied Econometrics
 - Assistant Professor, Kamala Nehru College, University of Delhi (2018-19)
 
 ## Conference Presentations
+### 2025 (Scheduled)
+- ASREC Conference on Economics of Religion  
+- ASREC Graduate Workshop on Economics of Religion  
+- Stellenbosch University Economic History Seminar (Invited)
+
 ### 2024
 - Markets and Society Conference, Mercatus Center, GMU
 

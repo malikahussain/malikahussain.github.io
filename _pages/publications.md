@@ -13,12 +13,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
    with Md Azharuddin Akhtar  
    *Economic and Political Weekly* (Forthcoming, 2024)
 
-2. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India"  
-   with M. Tyagi, D. Kumar, and Md T. Khan  
+2. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India" with M. Tyagi, D. Kumar, and Md T. Khan  
    *Journal of Biosocial Science* (Forthcoming)
 
-3. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector"  
-   with M. Tyagi  
+3. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" with M. Tyagi  
    *Structural Change and Economic Dynamics* (2024)  
    [Paper](https://doi.org/10.1016/j.strueco.2024.03.006)
 
@@ -34,8 +32,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Papers Under Review
 
-1. "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance"  
-   with F. Ansari Faiz, A. Akhtar, and M. Tyagi  
+1. "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance" with F. Ansari Faiz, A. Akhtar, and M. Tyagi  
 
 2. "STEMming the Dowry Tradition: Empowering Girls in India"  
    with M. Tyagi and D. Kumar  
