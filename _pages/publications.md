@@ -9,9 +9,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Published Papers
 
-1. "Addressing the Challenges of Death Registration in India: A Path Forward"  
-   with Md Azharuddin Akhtar  
-   *Economic and Political Weekly* (Forthcoming, 2024)
+1. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
+   *Economic and Political Weekly*, Vol. 60, Issue No. 4, 25 Jan 2025  
+   [Paper](https://www.epw.in/journal/2025/4/commentary/addressing-challenges-death-registration-india.html)
 
 2. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India" with M. Tyagi, D. Kumar, and Md T. Khan  
    *Journal of Biosocial Science* (Forthcoming)

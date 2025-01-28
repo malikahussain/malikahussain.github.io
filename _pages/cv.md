@@ -39,16 +39,17 @@ Secondary: Development Economics, Applied Econometrics
 
 ## Publications
 
-1. "Political Connections and Access to Credit: Evidence from Micro-enterprises in India" (with M. Tyagi)  
+1. 3. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
+   *Economic and Political Weekly*, Vol. 60, Issue No. 4, 25 Jan 2025  
+   [Paper](https://www.epw.in/journal/2025/4/commentary/addressing-challenges-death-registration-india.html)
+
+2. "Political Connections and Access to Credit: Evidence from Micro-enterprises in India" (with M. Tyagi)  
    *Small Business Economics*, 2024  
    [Paper](https://doi.org/10.1007/s11187-024-00950-y)
 
-2. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" (with M. Tyagi)  
+3. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" (with M. Tyagi)  
    *Structural Change and Economic Dynamics*, 2024  
    [Paper](https://doi.org/10.1016/j.strueco.2024.03.006)
-
-3. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
-   *Economic and Political Weekly*, Forthcoming 2024
 
 4. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India" (with M. Tyagi, D. Kumar, and Md T. Khan)  
    *Journal of Biosocial Science*, Forthcoming
