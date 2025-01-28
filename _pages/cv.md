@@ -39,7 +39,7 @@ Secondary: Development Economics, Applied Econometrics
 
 ## Publications
 
-1. 3. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
+1. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
    *Economic and Political Weekly*, Vol. 60, Issue No. 4, 25 Jan 2025  
    [Paper](https://www.epw.in/journal/2025/4/commentary/addressing-challenges-death-registration-india.html)
 
