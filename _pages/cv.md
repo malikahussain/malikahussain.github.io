@@ -9,11 +9,12 @@ permalink: /cv/
 [Download Complete CV (PDF)](/files/CV.pdf)
 
 ## Contact Information
-Department of Economics  
-George Mason University  
-4400 University Drive  
-Fairfax, VA 22030  
-Email: [mhussa5@gmu.edu](mailto:mhussa5@gmu.edu)
+Dr. Malik A. Hussain  
+Postdoctoral Fellow  
+Knee Regulatory Research Center  
+John Chambers College of Business and Economics  
+West Virginia University, Reynolds Hall 6307  
+Email: [malikaltaf.hussain@mail.wvu.edu](mailto:malikaltaf.hussain@mail.wvu.edu)  
 
 ## Employment
 I am on the 2024-25 academic job market.
