@@ -17,7 +17,9 @@ West Virginia University, Reynolds Hall 6307
 Email: [malikaltaf.hussain@mail.wvu.edu](mailto:malikaltaf.hussain@mail.wvu.edu)  
 
 ## Employment
-I am on the 2024-25 academic job market.
+Postdoctoral Fellow, Knee Regulatory Research Center  
+John Chambers College of Business and Economics  
+West Virginia University, Morgantown, WV
 
 ## Education
 **Ph.D. in Economics**, George Mason University, *August 2025*  
