@@ -8,13 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at George Mason University and currently on the academic job market for 2024-25. My research focuses on historical political economy and the economic history of colonial India, with an emphasis on health policy during British rule. I examine how culture, religion, and trust influenced vaccine hesitancy, particularly in the context of smallpox vaccination campaigns.
+<p>
+I am a Postdoctoral Fellow at the <strong>Knee Regulatory Research Center</strong> in the 
+<strong>John Chambers College of Business and Economics</strong> at 
+<strong>West Virginia University</strong>. 
+My research lies at the intersection of political economy and economic history, with a focus on health, institutions, 
+and development in colonial India. I study how political and cultural structures shaped vaccination campaigns and 
+mortality patterns under British rule, and how these legacies continue to influence contemporary outcomes.
+</p>
 
-By analyzing the political economy of health in colonial India, I aim to understand how historical and cultural factors continue to shape contemporary public health policies and economic outcomes. My work employs applied econometrics, historical data analysis, and machine learning techniques such as textual analysis.
-
-<div style="margin: 20px 0; max-width: 100%;">
-    <img src="/images/vax_india.jpg" alt="James Gillray's 1802 cartoon on smallpox vaccination" style="width: 100%; height: auto; max-height: 400px; object-fit: contain;">
-    <p style="font-size: 0.8em; color: #666; margin-top: 10px; font-style: italic;">
-        James Gillray's 1802 cartoon satirizes smallpox vaccination, showing people with cow-like features. Caption: "The COW-POCK – or – the Wonderful Effects of the New Inoculation!" | Ann Ronan Pictures/Print Collector/Getty Images
-    </p>
+<div style="position: relative; overflow: hidden; height: 60vh; margin-top: 30px;">
+  <img src="/images/India1875.jpg" alt="Colonial India 1875" 
+       style="width: 100%; height: 100%; object-fit: cover; opacity: 0.9; transition: opacity 0.8s ease-in-out;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+              background: linear-gradient(to bottom, rgba(0,0,0,0.35), rgba(255,255,255,0));"></div>
 </div>
+
+<script>
+window.addEventListener("scroll", () => {
+  const img = document.querySelector('img[src*="India1875.jpg"]');
+  if (!img) return;
+  const scrollY = window.scrollY;
+  const fadePoint = 250; // adjust fade intensity (smaller = faster fade)
+  img.style.opacity = Math.max(1 - scrollY / fadePoint, 0.3);
+});
+</script>
