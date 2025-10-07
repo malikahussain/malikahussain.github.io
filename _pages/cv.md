@@ -20,7 +20,7 @@ Email: [malikaltaf.hussain@mail.wvu.edu](mailto:malikaltaf.hussain@mail.wvu.edu)
 I am on the 2024-25 academic job market.
 
 ## Education
-**Ph.D. in Economics**, George Mason University, *Expected May 2025*  
+**Ph.D. in Economics**, George Mason University, *August 2025*  
 &nbsp;&nbsp;&nbsp;&nbsp;*Primary Fields:* Political Economy, Economic History  
 &nbsp;&nbsp;&nbsp;&nbsp;*Secondary Fields:* Development Economics, Applied Econometrics  
 **Dissertation Committee:**  
