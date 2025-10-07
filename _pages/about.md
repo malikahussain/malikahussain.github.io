@@ -11,15 +11,16 @@ redirect_from:
 <!-- Translucent map section at the top -->
 <div style="position: relative; 
             width: 100%; 
-            height: 400px;
-            margin-bottom: 40px;">
+            height: 300px;
+            margin-bottom: 40px;
+            overflow: hidden;">
   <div style="position: absolute;
               top: 0;
               left: 0;
               width: 100%;
               height: 100%;
               background: url('/images/India1875.jpg') center top no-repeat;
-              background-size: cover;
+              background-size: auto 100%;
               opacity: 0.3;">
   </div>
 </div>
