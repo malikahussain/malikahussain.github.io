@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -25,9 +25,9 @@ redirect_from:
 </div>
 
 <!-- Main content section -->
-<div style="max-width: 1200px;
+<div style="max-width: 1400px;
             margin: 0 auto;
-            padding: 0 40px 60px 40px;">
+            padding: 0 50px 60px 50px;">
 
   <h1 style="margin-bottom: 30px; font-size: 1.8em; color: #333; font-weight: 400;">About Me</h1>
 
