@@ -5,31 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div style="max-width: 1400px; margin: 0 auto; padding: 0 50px 60px 50px; font-weight: 300; font-size: 1.05em; line-height: 1.8; color: #444;" markdown="1">
-
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=HeXslZEAAAAJ) and [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2742099).
 
 ## Published Papers
 
-1. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)  
-   *Economic and Political Weekly*, Vol. 60, Issue No. 4, 25 Jan 2025  
+1. "Addressing the Challenges of Death Registration in India: A Path Forward" (with Md Azharuddin Akhtar)
+   *Economic and Political Weekly*, Vol. 60, Issue No. 4, 25 Jan 2025
    [Paper](https://www.epw.in/journal/2025/4/commentary/addressing-challenges-death-registration-india.html)
 
-2. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India" with M. Tyagi, D. Kumar, and Md T. Khan  
+2. "Flushed with Success: How Participation in Social Schemes Influence Toilet Adoption in Rural India" with M. Tyagi, D. Kumar, and Md T. Khan
    *Journal of Biosocial Science* (Forthcoming)
 
-3. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" with M. Tyagi  
-   *Structural Change and Economic Dynamics* (2024)  
+3. "Political Connections of Firms and Access to Credit: Evidence from the Indian Corporate Sector" with M. Tyagi
+   *Structural Change and Economic Dynamics* (2024)
    [Paper](https://doi.org/10.1016/j.strueco.2024.03.006)
 
-4. "Political Connections and Access to Credit: Evidence from Micro-enterprises in India"  
-   with M. Tyagi  
-   *Small Business Economics* (2024)  
+4. "Political Connections and Access to Credit: Evidence from Micro-enterprises in India"
+   with M. Tyagi
+   *Small Business Economics* (2024)
    [Paper](https://doi.org/10.1007/s11187-024-00950-y)
 
-5. "Role of Political Connections in Land Investment: Evidence from Rural India"  
-   with M. Tyagi  
-   *Constitutional Political Economy* (2020)  
+5. "Role of Political Connections in Land Investment: Evidence from Rural India"
+   with M. Tyagi
+   *Constitutional Political Economy* (2020)
    [Paper](https://doi.org/10.1007/s10602-019-09293-3)
 
 ## Working Papers
@@ -58,5 +56,3 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 10. "Midwife Licensing and Maternal Health in Immigrant Communities: Evidence from Early Twentieth-Century America"
     with Alicia Plemmons
-
-</div>
