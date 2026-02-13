@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div style="max-width: 1400px; margin: 0 auto; padding: 0 50px 60px 50px; font-weight: 300; font-size: 1.05em; line-height: 1.8; color: #444;">
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=HeXslZEAAAAJ) and [my SSRN profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2742099).
 
 ## Published Papers
@@ -56,3 +58,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 10. "Midwife Licensing and Maternal Health in Immigrant Communities: Evidence from Early Twentieth-Century America"
     with Alicia Plemmons
+
+</div>
