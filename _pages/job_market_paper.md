@@ -5,7 +5,7 @@ permalink: /job_market_paper/
 author_profile: true
 ---
 
-<div style="max-width: 1400px; margin: 0 auto; padding: 0 50px 60px 50px; font-weight: 300; font-size: 1.05em; line-height: 1.8; color: #444;">
+<div style="max-width: 1400px; margin: 0 auto; padding: 0 50px 60px 50px; font-weight: 300; font-size: 1.05em; line-height: 1.8; color: #444;" markdown="1">
 
 <h1 style="font-size: 1.8em; color: #333; font-weight: 400; margin-bottom: 20px;">Pox, Piety, and Paradox: The Economics of Vaccination in British India</h1>
 
