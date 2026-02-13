@@ -30,10 +30,11 @@ author:
   location         : "Morgantown, WV" # Update with your actual location
   # Add or update your social media profiles and other relevant links
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=HeXslZEAAAAJ"
   email            : "malikaltaf.hussain@mail.wvu.edu"
   researchgate     :
   uri              :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2742099"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -47,13 +48,13 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
