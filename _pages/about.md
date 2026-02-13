@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -27,12 +27,11 @@ redirect_from:
 <!-- Main content section -->
 <div style="max-width: 1400px;
             margin: 0 auto;
-            padding: 0 50px 60px 50px;
-            font-weight: 300;">
+            padding: 0 50px 60px 50px;">
 
   <h1 style="margin-bottom: 30px; font-size: 1.8em; color: #333; font-weight: 400;">About Me</h1>
 
-  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; color: #444;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; font-weight: 300; color: #444;">
     I am a Postdoctoral Fellow at the Knee Regulatory Research Center in the
     John Chambers College of Business and Economics at
     West Virginia University. I received my Ph.D. in Economics from
@@ -40,7 +39,7 @@ redirect_from:
   </p>
 
   <h2 style="margin-top: 40px; margin-bottom: 20px; font-size: 1.4em; color: #444; font-weight: 400;">Research Interests</h2>
-  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; color: #444;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; font-weight: 300; color: #444;">
     My research focuses on applied microeconomics, with particular emphasis on
     historical political economy, development economics, and
     public health. I study how political and cultural institutions shaped vaccination
@@ -49,7 +48,7 @@ redirect_from:
   </p>
 
   <h2 style="margin-top: 40px; margin-bottom: 20px; font-size: 1.4em; color: #444; font-weight: 400;">Current Research</h2>
-  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; color: #444;">
+  <p style="font-size: 1.05em; line-height: 1.8; margin-bottom: 30px; font-weight: 300; color: #444;">
     My job market paper examines the cultural and religious roots of vaccine hesitancy in colonial India,
     exploring how Hindu religious beliefs affected smallpox vaccination uptake and its long-term societal
     impacts. I use newly compiled historical data and spatial econometric methods to understand the
@@ -57,7 +56,7 @@ redirect_from:
   </p>
 
   <div style="text-align: center; margin-top: 50px; padding: 30px; background-color: #f8f9fa; border-radius: 8px;">
-    <p style="font-size: 1.05em; margin-bottom: 20px; color: #555;">
+    <p style="font-size: 1.05em; margin-bottom: 20px; color: #555; font-weight: 300;">
       Looking for my research?
     </p>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
