@@ -30,26 +30,29 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
    *Constitutional Political Economy* (2020)  
    [Paper](https://doi.org/10.1007/s10602-019-09293-3)
 
-## Papers Under Review
-
-1. "Money and Muscle in India's Democracy: The Rise of Criminal Politicians and Its Impact on Governance" with F. Ansari Faiz, A. Akhtar, and M. Tyagi  
-
-2. "STEMming the Dowry Tradition: Empowering Girls in India"  
-   with M. Tyagi and D. Kumar  
-   
 ## Working Papers
 
-1. "Mistrust and Vaccination in Colonial India: 1870 - 1926"  
+1. "Mistrust and Vaccination in Colonial India: 1870 - 1926"
    with Noel D. Johnson
 
 2. "Religion and Smallpox Vaccination in Colonial India"
 
-3. "Colonization in a Network of Allies"  
+3. "Colonization in a Network of Allies"
    with Benhur Ruqsana
 
 4. "Railways and Health Outcomes in Colonial India"
 
-5. "Religion and Consumption of Drugs in Colonial India"  
-   with Noel D. Johnson and Shruti Rajagopalan
+5. "Language and Market Integration in Colonial India: A Network Economics Approach"
+   with Benhur Ruqsana
 
-6. "Language and Market Integration in Colonial India: A Network Economics Approach" (with Benhur Ruqsana)
+6. "Menu Prices"
+
+7. "Captive Pricing"
+
+8. "Pollution and Productivity"
+
+9. "Respiratory Therapist Continuing Education Requirements and Respiratory Mortality"
+   with Alicia Plemmons
+
+10. "Midwife Licensing and Maternal Health in Immigrant Communities: Evidence from Early Twentieth-Century America"
+    with Alicia Plemmons
