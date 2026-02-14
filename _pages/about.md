@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- Translucent map section at the top -->
-<div style="position: relative; width: 100%; height: 350px; margin-bottom: 50px;">
+<div style="position: relative; width: 100%; height: 200px; margin-bottom: 30px; margin-top: -20px;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: url('/images/India1875.jpg') center top no-repeat; background-size: cover; opacity: 0.25;"></div>
 </div>
 
