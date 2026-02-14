@@ -40,8 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Custom fixes - remove gap at top of content */
+/* Custom fixes - COMPLETELY remove gap at top of content */
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
 #main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.sidebar {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
@@ -52,9 +62,30 @@
 }
 
 .page__inner-wrap {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page__content {
+  margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
 .initial-content {
+  padding-top: 0 !important;
+}
+
+article.page {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.author__avatar {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.author__content {
+  margin-top: 0 !important;
   padding-top: 0 !important;
 }
