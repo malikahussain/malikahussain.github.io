@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom fixes - remove gap at top of content */
+#main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page__inner-wrap {
+  padding-top: 0 !important;
+}
+
+.initial-content {
+  padding-top: 0 !important;
+}
