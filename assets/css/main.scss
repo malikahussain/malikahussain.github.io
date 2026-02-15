@@ -90,13 +90,41 @@ article.page {
   padding-top: 0 !important;
 }
 
-/* Fix masthead spacing - REMOVE ALL GAPS */
+/* AGGRESSIVE FIX - Remove ALL spacing between masthead and content */
 .masthead {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
 }
 
 .masthead__inner-wrap {
-  padding: 0.5em 1em 0.5em !important; /* Reduce vertical padding */
+  padding: 0.5em 1em 0.5em !important;
   margin: 0 !important;
+  min-height: 0 !important;
+}
+
+/* Force content to start immediately after masthead */
+.initial-content {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  min-height: 0 !important;
+}
+
+.page__hero {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  display: none !important; /* Hide hero section if exists */
+}
+
+/* Remove any flex/grid gaps */
+body {
+  display: block !important;
+}
+
+/* Ensure #main starts right after masthead */
+#main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  transform: translateY(0) !important;
 }
