@@ -89,3 +89,14 @@ article.page {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
+
+/* Fix masthead spacing - REMOVE ALL GAPS */
+.masthead {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.masthead__inner-wrap {
+  padding: 0.5em 1em 0.5em !important; /* Reduce vertical padding */
+  margin: 0 !important;
+}
