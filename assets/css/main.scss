@@ -54,7 +54,7 @@ body {
   text-decoration: none;
 
   &:hover {
-    color: #0366d6;
+    color: #b22222;
   }
 }
 
@@ -72,13 +72,13 @@ body {
   }
 
   a {
-    color: #586069;
+    color: #7a8288;
     text-decoration: none;
     font-weight: 500;
     transition: color 0.2s;
 
     &:hover {
-      color: #0366d6;
+      color: #b22222;
     }
   }
 }
@@ -134,7 +134,7 @@ body {
     }
 
     a {
-      color: #0366d6;
+      color: #b22222;
       text-decoration: none;
       font-size: 0.9rem;
       display: flex;
@@ -202,7 +202,7 @@ body {
   }
 
   a {
-    color: #0366d6;
+    color: #b22222;
     text-decoration: none;
 
     &:hover {
@@ -279,7 +279,7 @@ body {
 .btn {
   display: inline-block;
   padding: 0.5rem 1rem;
-  background: #0366d6;
+  background: #b22222;
   color: #fff !important;
   text-decoration: none;
   border-radius: 6px;
@@ -290,15 +290,15 @@ body {
   margin-bottom: 0.5rem;
 
   &:hover {
-    background: #0256c9;
+    background: #8b1a1a;
     text-decoration: none;
   }
 
   &--primary {
-    background: #0366d6;
+    background: #b22222;
 
     &:hover {
-      background: #0256c9;
+      background: #8b1a1a;
     }
   }
 }
