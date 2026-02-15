@@ -40,68 +40,90 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* NUCLEAR OPTION - ELIMINATE ALL GAPS COMPLETELY */
-/* Force zero spacing on EVERYTHING */
-* {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
+/* ======================================================================
+   ULTRA-NUCLEAR OPTION - DESTROY ALL GAPS EVERYWHERE
+   ====================================================================== */
 
-/* Restore only necessary margins for content readability */
-p, ul, ol, h1, h2, h3, h4, h5, h6 {
-  margin-top: 1em !important;
-}
-
-/* Keep masthead padding for navigation */
-.masthead__inner-wrap {
-  padding: 0.5em 1em !important;
-}
-
-/* Completely eliminate page hero */
-.page__hero,
-.page__hero--overlay {
-  display: none !important;
+/* Step 1: Reset ALL spacing on ALL elements and pseudo-elements */
+*,
+*::before,
+*::after {
   margin: 0 !important;
   padding: 0 !important;
+  gap: 0 !important;
+  row-gap: 0 !important;
+  column-gap: 0 !important;
+}
+
+/* Step 2: Force body to start at top */
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Step 3: Force masthead tight to top */
+.masthead {
+  margin: 0 !important;
+  padding: 0 !important;
+  border-bottom: 1px solid #f2f3f3;
+}
+
+.masthead__inner-wrap {
+  margin: 0 !important;
+  padding: 0.5em 1em !important; /* Only horizontal padding for nav */
+}
+
+/* Step 4: Force main content tight to masthead */
+#main {
+  margin: 0 !important;
+  padding: 1em !important; /* Only inner padding for content */
+  display: block !important;
+}
+
+/* Step 5: Kill all heroes completely */
+.page__hero,
+.page__hero--overlay,
+.page__hero-image,
+[class*="hero"] {
+  display: none !important;
+  visibility: hidden !important;
   height: 0 !important;
   min-height: 0 !important;
+  max-height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0 !important;
+  overflow: hidden !important;
 }
 
-/* Force content directly after navigation */
-body > * {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.masthead {
-  margin-bottom: 0 !important;
-  padding-bottom: 0 !important;
-}
-
-#main {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.layout--single #main,
-.layout--home #main,
-.layout--archive #main {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Eliminate any animations that might create gaps */
-.page__hero--overlay,
-#main,
-.sidebar,
-.page {
+/* Step 6: Kill ALL animations that might cause spacing */
+* {
   animation: none !important;
   -webkit-animation: none !important;
+  transition: none !important;
 }
 
-/* Fix sidebar sticky positioning to not create gaps */
-.sidebar.sticky {
-  top: 0 !important;
-  margin-top: 0 !important;
+/* Step 7: Restore ONLY critical spacing for readability */
+.page__content p,
+.page__content ul,
+.page__content ol,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  margin-top: 1em !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* Step 8: Fix sidebar */
+.sidebar {
   padding-top: 1em !important;
+}
+
+/* Step 9: Breadcrumbs */
+.breadcrumbs {
+  margin: 0 !important;
+  padding: 0.5em 1em !important;
 }
