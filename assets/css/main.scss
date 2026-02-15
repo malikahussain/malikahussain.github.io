@@ -40,91 +40,68 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Custom fixes - COMPLETELY remove gap at top of content */
-body {
+/* NUCLEAR OPTION - ELIMINATE ALL GAPS COMPLETELY */
+/* Force zero spacing on EVERYTHING */
+* {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-#main {
+/* Restore only necessary margins for content readability */
+p, ul, ol, h1, h2, h3, h4, h5, h6 {
+  margin-top: 1em !important;
+}
+
+/* Keep masthead padding for navigation */
+.masthead__inner-wrap {
+  padding: 0.5em 1em !important;
+}
+
+/* Completely eliminate page hero */
+.page__hero,
+.page__hero--overlay {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+  min-height: 0 !important;
+}
+
+/* Force content directly after navigation */
+body > * {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
 
-.sidebar {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page__inner-wrap {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.initial-content {
-  padding-top: 0 !important;
-}
-
-article.page {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.author__avatar {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.author__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* AGGRESSIVE FIX - Remove ALL spacing between masthead and content */
 .masthead {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
-  min-height: 0 !important;
-  height: auto !important;
 }
 
-.masthead__inner-wrap {
-  padding: 0.5em 1em 0.5em !important;
-  margin: 0 !important;
-  min-height: 0 !important;
-}
-
-/* Force content to start immediately after masthead */
-.initial-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  min-height: 0 !important;
-}
-
-.page__hero {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-  display: none !important; /* Hide hero section if exists */
-}
-
-/* Remove any flex/grid gaps */
-body {
-  display: block !important;
-}
-
-/* Ensure #main starts right after masthead */
 #main {
   margin-top: 0 !important;
   padding-top: 0 !important;
-  transform: translateY(0) !important;
+}
+
+.layout--single #main,
+.layout--home #main,
+.layout--archive #main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Eliminate any animations that might create gaps */
+.page__hero--overlay,
+#main,
+.sidebar,
+.page {
+  animation: none !important;
+  -webkit-animation: none !important;
+}
+
+/* Fix sidebar sticky positioning to not create gaps */
+.sidebar.sticky {
+  top: 0 !important;
+  margin-top: 0 !important;
+  padding-top: 1em !important;
 }
