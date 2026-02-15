@@ -1,41 +1,349 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+// Clean Modern Academic Site
+// Inspired by MIT/Stanford academic pages
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
+// ============================================================================
+// RESET & BASE
+// ============================================================================
 
-@import "reset";
-@import "base";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
+html {
+  font-size: 16px;
+  line-height: 1.6;
+}
 
-@import "forms";
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+}
 
-@import "page";
-@import "archive";
-@import "sidebar";
+// ============================================================================
+// NAVIGATION - Clean, No Gaps
+// ============================================================================
 
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+.masthead {
+  background: #fff;
+  border-bottom: 1px solid #e1e4e8;
+  padding: 1rem 0;
+  margin: 0;
+}
+
+.masthead__inner-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+
+  &:hover {
+    color: #0366d6;
+  }
+}
+
+.greedy-nav {
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+  }
+
+  a {
+    color: #586069;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+
+    &:hover {
+      color: #0366d6;
+    }
+  }
+}
+
+// ============================================================================
+// MAIN CONTENT - Tight to navigation, no gaps
+// ============================================================================
+
+#main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  display: flex;
+  gap: 3rem;
+}
+
+// ============================================================================
+// SIDEBAR - Profile section
+// ============================================================================
+
+.sidebar {
+  flex: 0 0 280px;
+
+  .author__avatar {
+    img {
+      width: 100%;
+      border-radius: 50%;
+      margin-bottom: 1.5rem;
+    }
+  }
+
+  .author__name {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #24292e;
+  }
+
+  .author__bio {
+    font-size: 0.95rem;
+    color: #586069;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+  }
+
+  .author__urls {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0 0 0;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      color: #0366d6;
+      text-decoration: none;
+      font-size: 0.9rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    i, .fas, .fab, .ai {
+      width: 20px;
+      text-align: center;
+    }
+  }
+}
+
+// ============================================================================
+// PAGE CONTENT
+// ============================================================================
+
+.page {
+  flex: 1;
+  min-width: 0;
+}
+
+.page__title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #24292e;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
+
+.page__content {
+  color: #24292e;
+  font-size: 1rem;
+  line-height: 1.7;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #24292e;
+    line-height: 1.25;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; border-bottom: 1px solid #e1e4e8; padding-bottom: 0.3rem; }
+  h3 { font-size: 1.25rem; }
+  h4 { font-size: 1.1rem; }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  ul, ol {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  a {
+    color: #0366d6;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  code {
+    background: #f6f8fa;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+  }
+
+  pre {
+    background: #f6f8fa;
+    padding: 1rem;
+    border-radius: 6px;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+
+    code {
+      background: none;
+      padding: 0;
+    }
+  }
+
+  blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding-left: 1rem;
+    color: #6a737d;
+    margin: 1rem 0;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #e1e4e8;
+    margin: 2rem 0;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+
+    th, td {
+      padding: 0.75rem;
+      border: 1px solid #e1e4e8;
+      text-align: left;
+    }
+
+    th {
+      background: #f6f8fa;
+      font-weight: 600;
+    }
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem 0;
+  }
+
+  iframe {
+    margin: 1rem 0;
+  }
+}
+
+// ============================================================================
+// BUTTONS
+// ============================================================================
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: #0366d6;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+
+  &:hover {
+    background: #0256c9;
+    text-decoration: none;
+  }
+
+  &--primary {
+    background: #0366d6;
+
+    &:hover {
+      background: #0256c9;
+    }
+  }
+}
+
+// ============================================================================
+// RESPONSIVE
+// ============================================================================
+
+@media (max-width: 768px) {
+  #main {
+    flex-direction: column;
+    padding: 2rem 1rem;
+  }
+
+  .sidebar {
+    flex: none;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+
+  .greedy-nav ul {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .masthead__inner-wrap {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
+
+// ============================================================================
+// UTILITY CLASSES
+// ============================================================================
+
+.text-center {
+  text-align: center;
+}
+
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mb-4 { margin-bottom: 2rem; }
+
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+.mt-4 { margin-top: 2rem; }
