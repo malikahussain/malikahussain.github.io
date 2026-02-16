@@ -27,7 +27,7 @@ author:
   name             : "Malik Altaf Hussain"
   avatar           : "profile.png" # Update this if you have a different profile picture
   bio              : "I am a Postdoctoral Fellow at the Knee Regulatory Research Center in the John Chambers College of Business and Economics at West Virginia University."
-  location         : "Morgantown, WV" # Update with your actual location
+  location         :
   # Add or update your social media profiles and other relevant links
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=HeXslZEAAAAJ"
