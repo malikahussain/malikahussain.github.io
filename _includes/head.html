@@ -19,10 +19,11 @@
 <script>
   (function() {
     var saved = localStorage.getItem('theme');
-    var preferred = (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : saved;
-    if (preferred === 'dark') {
+    // Only apply dark mode if user explicitly chose it (ignore system preference)
+    if (saved === 'dark') {
       document.documentElement.setAttribute('data-theme', 'dark');
     }
+    // Otherwise, always default to light mode
   })();
 </script>
 
