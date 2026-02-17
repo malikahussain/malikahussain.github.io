@@ -5,6 +5,38 @@
 // Inspired by MIT/Stanford academic pages
 
 // ============================================================================
+// THEME VARIABLES (Light & Dark)
+// ============================================================================
+
+:root {
+  --bg:            #fff;
+  --bg-secondary:  #f6f8fa;
+  --text:          #333;
+  --text-dark:     #24292e;
+  --text-muted:    #586069;
+  --border:        #e1e4e8;
+  --nav-link:      #7a8288;
+  --accent:        #b22222;
+  --accent-dark:   #8b1a1a;
+  --code-bg:       #f6f8fa;
+  --blockquote:    #6a737d;
+}
+
+[data-theme="dark"] {
+  --bg:            #0d1117;
+  --bg-secondary:  #161b22;
+  --text:          #c9d1d9;
+  --text-dark:     #e6edf3;
+  --text-muted:    #8b949e;
+  --border:        #30363d;
+  --nav-link:      #8b949e;
+  --accent:        #e05757;
+  --accent-dark:   #c94040;
+  --code-bg:       #161b22;
+  --blockquote:    #8b949e;
+}
+
+// ============================================================================
 // RESET & BASE
 // ============================================================================
 
@@ -21,10 +53,11 @@ html {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #333;
-  background: #fff;
+  color: var(--text);
+  background: var(--bg);
   margin: 0;
   padding: 0;
+  transition: background 0.2s, color 0.2s;
 }
 
 // ============================================================================
@@ -32,10 +65,11 @@ body {
 // ============================================================================
 
 .masthead {
-  background: #fff;
-  border-bottom: 1px solid #e1e4e8;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
   padding: 1rem 0;
   margin: 0;
+  transition: background 0.2s, border-color 0.2s;
 }
 
 .masthead__inner-wrap {
@@ -50,11 +84,11 @@ body {
 .site-title {
   font-size: 1.5rem;
   font-weight: 600;
-  color: #333;
+  color: var(--text-dark);
   text-decoration: none;
 
   &:hover {
-    color: #b22222;
+    color: var(--accent);
   }
 }
 
@@ -72,14 +106,37 @@ body {
   }
 
   a {
-    color: #7a8288;
+    color: var(--nav-link);
     text-decoration: none;
     font-weight: 500;
     transition: color 0.2s;
 
     &:hover {
-      color: #b22222;
+      color: var(--accent);
     }
+  }
+}
+
+// ============================================================================
+// THEME TOGGLE BUTTON
+// ============================================================================
+
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: var(--text);
+  transition: border-color 0.2s, background 0.2s;
+  margin-left: 1rem;
+  flex-shrink: 0;
+
+  &:hover {
+    background: var(--bg-secondary);
+    border-color: var(--accent);
   }
 }
 
@@ -115,12 +172,12 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 0.5rem;
-    color: #24292e;
+    color: var(--text-dark);
   }
 
   .author__bio {
     font-size: 0.95rem;
-    color: #586069;
+    color: var(--text-muted);
     margin-bottom: 1rem;
     line-height: 1.5;
   }
@@ -135,7 +192,7 @@ body {
     }
 
     a {
-      color: #b22222;
+      color: var(--accent);
       text-decoration: none;
       font-size: 0.9rem;
       display: flex;
@@ -166,13 +223,13 @@ body {
 .page__title {
   font-size: 2rem;
   font-weight: 700;
-  color: #24292e;
+  color: var(--text-dark);
   margin-bottom: 1.5rem;
   line-height: 1.2;
 }
 
 .page__content {
-  color: #24292e;
+  color: var(--text-dark);
   font-size: 1.05rem;
   line-height: 1.7;
 
@@ -180,12 +237,12 @@ body {
     font-weight: 600;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    color: #24292e;
+    color: var(--text-dark);
     line-height: 1.25;
   }
 
   h1 { font-size: 2rem; }
-  h2 { font-size: 1.5rem; border-bottom: 1px solid #e1e4e8; padding-bottom: 0.3rem; }
+  h2 { font-size: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
   h3 { font-size: 1.25rem; }
   h4 { font-size: 1.1rem; }
 
@@ -203,7 +260,7 @@ body {
   }
 
   a {
-    color: #b22222;
+    color: var(--accent);
     text-decoration: none;
 
     &:hover {
@@ -212,19 +269,21 @@ body {
   }
 
   code {
-    background: #f6f8fa;
+    background: var(--code-bg);
     padding: 0.2em 0.4em;
     border-radius: 3px;
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
     font-size: 0.9em;
+    color: var(--text-dark);
   }
 
   pre {
-    background: #f6f8fa;
+    background: var(--code-bg);
     padding: 1rem;
     border-radius: 6px;
     overflow-x: auto;
     margin-bottom: 1rem;
+    border: 1px solid var(--border);
 
     code {
       background: none;
@@ -233,15 +292,15 @@ body {
   }
 
   blockquote {
-    border-left: 4px solid #dfe2e5;
+    border-left: 4px solid var(--border);
     padding-left: 1rem;
-    color: #6a737d;
+    color: var(--blockquote);
     margin: 1rem 0;
   }
 
   hr {
     border: none;
-    border-top: 1px solid #e1e4e8;
+    border-top: 1px solid var(--border);
     margin: 2rem 0;
   }
 
@@ -252,13 +311,14 @@ body {
 
     th, td {
       padding: 0.75rem;
-      border: 1px solid #e1e4e8;
+      border: 1px solid var(--border);
       text-align: left;
     }
 
     th {
-      background: #f6f8fa;
+      background: var(--bg-secondary);
       font-weight: 600;
+      color: var(--text-dark);
     }
   }
 
@@ -278,10 +338,11 @@ body {
 // ============================================================================
 
 .page__footer {
-  background: #f6f8fa;
-  border-top: 1px solid #e1e4e8;
+  background: var(--bg-secondary);
+  border-top: 1px solid var(--border);
   margin-top: 4rem;
   padding: 2rem 0;
+  transition: background 0.2s, border-color 0.2s;
 
   footer {
     max-width: 1200px;
@@ -306,7 +367,7 @@ body {
 
   li {
     font-size: 0.85rem;
-    color: #586069;
+    color: var(--text-muted);
   }
 
   strong {
@@ -314,11 +375,11 @@ body {
   }
 
   a {
-    color: #586069;
+    color: var(--text-muted);
     text-decoration: none;
 
     &:hover {
-      color: #b22222;
+      color: var(--accent);
     }
   }
 }
@@ -327,15 +388,15 @@ body {
   margin-left: 2rem;
   margin-right: 2rem;
   font-size: 0.75rem;
-  color: #6a737d;
+  color: var(--text-muted);
   line-height: 1.5;
 
   a {
-    color: #586069;
+    color: var(--text-muted);
     text-decoration: none;
 
     &:hover {
-      color: #b22222;
+      color: var(--accent);
     }
   }
 }
@@ -347,7 +408,7 @@ body {
 .btn {
   display: inline-block;
   padding: 0.5rem 1rem;
-  background: #b22222;
+  background: var(--accent);
   color: #fff !important;
   text-decoration: none;
   border-radius: 6px;
@@ -358,15 +419,15 @@ body {
   margin-bottom: 0.5rem;
 
   &:hover {
-    background: #8b1a1a;
+    background: var(--accent-dark);
     text-decoration: none;
   }
 
   &--primary {
-    background: #b22222;
+    background: var(--accent);
 
     &:hover {
-      background: #8b1a1a;
+      background: var(--accent-dark);
     }
   }
 }
