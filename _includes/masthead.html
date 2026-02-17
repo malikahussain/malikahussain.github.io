@@ -15,5 +15,37 @@
         {% endfor %}
       </ul>
     </nav>
+
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark/light mode">
+      <span id="theme-icon">🌙</span>
+    </button>
   </div>
 </div>
+
+<script>
+  (function() {
+    var btn = document.getElementById('theme-toggle');
+    var icon = document.getElementById('theme-icon');
+    var html = document.documentElement;
+
+    function applyTheme(theme) {
+      if (theme === 'dark') {
+        html.setAttribute('data-theme', 'dark');
+        icon.textContent = '☀️';
+      } else {
+        html.removeAttribute('data-theme');
+        icon.textContent = '🌙';
+      }
+    }
+
+    // Set icon to match current theme (already applied in <head>)
+    applyTheme(html.getAttribute('data-theme') || 'light');
+
+    btn.addEventListener('click', function() {
+      var current = html.getAttribute('data-theme');
+      var next = current === 'dark' ? 'light' : 'dark';
+      applyTheme(next);
+      localStorage.setItem('theme', next);
+    });
+  })();
+</script>
