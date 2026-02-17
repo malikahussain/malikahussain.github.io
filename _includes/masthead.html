@@ -22,9 +22,15 @@
 </div>
 
 <script>
-  (function() {
+  document.addEventListener('DOMContentLoaded', function() {
     var btn = document.getElementById('theme-toggle');
     var icon = document.getElementById('theme-icon');
+
+    if (!btn || !icon) {
+      console.error('Theme toggle elements not found');
+      return;
+    }
+
     var html = document.documentElement;
 
     function applyTheme(theme) {
@@ -38,7 +44,8 @@
     }
 
     // Set icon to match current theme (already applied in <head>)
-    applyTheme(html.getAttribute('data-theme') || 'light');
+    var currentTheme = html.getAttribute('data-theme') || 'light';
+    applyTheme(currentTheme);
 
     btn.addEventListener('click', function() {
       var current = html.getAttribute('data-theme');
@@ -46,5 +53,5 @@
       applyTheme(next);
       localStorage.setItem('theme', next);
     });
-  })();
+  });
 </script>
