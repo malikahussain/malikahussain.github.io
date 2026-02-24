@@ -14,6 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **Working Papers**
 
 1. "Mistrust and Vaccination in Colonial India: 1870–1926" (with Noel D. Johnson)
+   [Draft available on request]
 
 2. "Religion and Smallpox Vaccination in Colonial India"
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047593)
