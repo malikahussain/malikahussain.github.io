@@ -27,8 +27,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4894697)
 
 6. "Menu Prices"
+   [Draft available on request]
 
 7. "Captive Pricing"
+   [Draft available on request]
 
 ---
 
@@ -63,7 +65,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 **Working Papers**
 
 1. "Midwife Licensing and Maternal Health in Immigrant Communities: Evidence from Early Twentieth-Century America" (with Alicia Plemmons)
+   [Draft available on request]
 
 2. "Respiratory Therapist Continuing Education Requirements and Respiratory Mortality" (with Alicia Plemmons)
+   [Draft available on request]
 
 3. "Pollution and Productivity"
