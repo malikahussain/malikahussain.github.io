@@ -16,7 +16,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 1. "Mistrust and Vaccination in Colonial India: 1870–1926" (with Noel D. Johnson)
    [Draft available on request] [[Slides]](https://www.dropbox.com/scl/fi/2gt1hph1e8zhp7m68ei9r/india_1857_MarketsSociety-Noel-Johnson-s-conflicted-copy-2024-10-13.pdf?rlkey=84hrbt3j01502xxp78bezsz0y&e=1&dl=0) [[Research Remix Podcast, Mason Libraries]](https://open.spotify.com/episode/6QfwWChYF1UYjCGghSp5m5?si=tIlVYQ18RgOMzyGDYfFunA&nd=1&dlsi=b08274293f624165)
 
-2. "Religion and Smallpox Vaccination in Colonial India"
+2. "Pox, Piety, and Paradox"
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5047593)
 
 3. "Railways and Health Outcomes in Colonial India"
