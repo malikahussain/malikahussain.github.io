@@ -9,17 +9,17 @@
 // ============================================================================
 
 :root {
-  --bg:            #fff;
-  --bg-secondary:  #f6f8fa;
-  --text:          #333;
-  --text-dark:     #24292e;
-  --text-muted:    #586069;
-  --border:        #e1e4e8;
-  --nav-link:      #7a8288;
-  --accent:        #b22222;
-  --accent-dark:   #8b1a1a;
-  --code-bg:       #f6f8fa;
-  --blockquote:    #6a737d;
+  --bg:            #faf8f4;
+  --bg-secondary:  #f0ede6;
+  --text:          #2a2a2a;
+  --text-dark:     #1a365d;
+  --text-muted:    #5d5d5d;
+  --border:        #e6e0d6;
+  --nav-link:      #5d5d5d;
+  --accent:        #2c5282;
+  --accent-dark:   #8a6630;
+  --code-bg:       #f0ede6;
+  --blockquote:    #5d5d5d;
 }
 
 [data-theme="dark"] {
