@@ -158,7 +158,7 @@ a:hover { color: var(--accent-dark); text-decoration: underline; text-underline-
   border: 1px solid rgba(255, 255, 255, 0.35);
   color: #fff;
 }
-.hero__cta a:hover { background: rgba(255, 255, 255, 0.12); text-decoration: none; border-color: var(--accent); color: var(--accent); }
+.hero__cta a:hover { background: var(--accent); text-decoration: none; border-color: var(--accent); color: #1c1303; }
 .hero__cta a.is-primary { background: var(--accent); border-color: var(--accent); color: #1c1303; }
 .hero__cta a.is-primary:hover { background: #c79552; }
 
